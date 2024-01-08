@@ -12,7 +12,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ot_boul/contributions.svg" />
   </a>
   <a href="https://zenn.dev/ot_boul">
-    <img height="20" src="https://badgen.org/img/zenn/ot_boul/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/takiclimb/articles?style=plastic" />
   </a>
 </p>
 
