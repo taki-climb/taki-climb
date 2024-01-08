@@ -15,3 +15,13 @@
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taki-climb&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taki-climb&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taki-climb&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taki-climb&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taki-climb&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=taki-climb&theme=gruvbox)
